@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CarData</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="edit">Edit Contact</string>
+    <string name="delete">Delete Contact</string>
+    <string name="title_activity_display_contact">DisplayContact</string>
+    <string name="save">Save Contact</string>
+    <string name="deleteContact">Are you sure, you want to delete it.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
